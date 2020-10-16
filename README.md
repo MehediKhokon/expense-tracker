@@ -3,7 +3,8 @@
 
 #### Dependency list
 - React
+- React hook ( useState, useEffect, ContextApi )
 - Custom CSS
 
 ### LIVE LINK
-[*CLICK TO OPEN Expense tracker*](https://mehedikhokon.github.io/expense-tracker/)  
+[*click to open Expense tracker*](https://mehedikhokon.github.io/expense-tracker/)  
