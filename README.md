@@ -1,10 +1,9 @@
 # Expense Tracker
-*A react site for demonstrating the incomes and expenses earning*.
+*A react site for demonstrating the incomes and expenses earning*. :smile:
 
 #### Dependency list
-- React :react:
-- Custom CSS :css:
-- :smile:
+- React
+- Custom CSS
 
 ### LIVE LINK
 [*CLICK TO OPEN Expense tracker*](https://mehedikhokon.github.io/expense-tracker/)  
