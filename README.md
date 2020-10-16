@@ -3,7 +3,7 @@
 
 #### Dependency list
 - React
-- React hook ( useState, useEffect, ContextApi )
+- React hooks ( useState, useEffect, ContextApi )
 - Custom CSS
 
 ### LIVE LINK
