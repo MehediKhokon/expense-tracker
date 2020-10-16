@@ -1,5 +1,5 @@
 # Expense Tracker
-*A react site for demonstrating the incomes and expenses earning*. :smile:
+*A react app for demonstrating the incomes and expenses earning*. :smile:
 
 #### Dependency list
 - React
