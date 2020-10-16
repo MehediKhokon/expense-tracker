@@ -6,5 +6,5 @@
 - React hooks ( useState, useEffect, ContextApi )
 - Custom CSS
 
-### LIVE LINK
+### Live link
 [*click to open Expense tracker*](https://mehedikhokon.github.io/expense-tracker/)  
