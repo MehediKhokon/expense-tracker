@@ -42,7 +42,7 @@ function AddTransaction() {
             placeholder='Enter amount...'
           />
         </div>
-        <button className='btn'>Add transaction</button>
+        <button className='btn' disabled={!amount && !text}>Add transaction</button>
       </form>
     </>
   )
